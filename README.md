@@ -39,6 +39,4 @@ To stop the bot, press CTRL + C in your terminal.
 |---|---|---|
 | 401 Unauthorized | Keys are wrong or permissions are stale. | Regenerate Keys & Tokens in Developer Portal. Ensure you generated them after setting permissions to "Read & Write". |
 | 403 Forbidden | Wrong Access Level. | You likely need the Basic Tier subscription. The Free Tier is mostly Write-Only for tweets, not profile updates. |
-| 429 Too Many Requests | You updated it too fast. | The bot will automatically sleep for 15 minutes. |
-📝 License
-This project is open source. Feel free to modify the emoji list!
+| 429 Too Many Requests | You updated it too fast. | The bot will automatically sleep for 15 minutes.
